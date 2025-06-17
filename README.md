@@ -85,6 +85,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20build%20something%20amazing%20together!&fontSize=18&fontColor=fff&animation=slideIn" alt="Let's connect!" />
+  <br>
+  <p style="font-size: 1.2em; color: #eee;">Feel free to reach out to me via <a href="mailto:vaibhavbhargav03@gmail.com" style="color: #00FFAB; text-decoration: none;">Email</a> or connect on <a href="https://www.linkedin.com/in/vaibhav-bhargav-208470252/" style="color: #0077B5; text-decoration: none;">LinkedIn</a>!</p>
 </div>
