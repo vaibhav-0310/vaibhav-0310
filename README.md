@@ -51,8 +51,8 @@
 
 ## 🎓 Research Publication
 
-- 🔹 **"Human Drawing-Driven Automated Evaluation for Parkinson's Disease Detection"**  
-  Published in IEEE Conference | Focused on AI-powered healthcare diagnostics.
+-  **"Human Drawing-Driven Automated Evaluation for Parkinson's Disease Detection"**  
+ <a href="https://ieeexplore.ieee.org/document/10941183/"> Published in IEEE Conference </a>.
 
 ---
 
@@ -79,4 +79,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-0310&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
 
