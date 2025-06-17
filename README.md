@@ -44,7 +44,6 @@ I believe in continuous learning and have earned several certifications to stren
 * **Oracle Java Foundations Certified Junior Associate**
 * **Full Stack Developer MERN** (SmartBridge)
 * **HTML, CSS, and JavaScript** (John Hopkins University)
-* **SQL Advanced** (HackerRank)
 
 ### 🏆 Highlights & Recognition
 
