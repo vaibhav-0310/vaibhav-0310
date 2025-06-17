@@ -94,5 +94,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vaibhav-0310&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0310&theme=react-dark" alt="Contribution Graph" />
 </p>
