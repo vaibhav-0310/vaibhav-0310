@@ -1,128 +1,82 @@
-# 👋 Hey there! I'm **Vaibhav Bhargav**
+<h1 align="center">Hi there, I'm Vaibhav Bhargav 👋</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;AI+Health+Informatics+Researcher;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MERN+Stack+Developer+%F0%9F%9A%80;AI+Health+Informatics+Researcher+%F0%9F%A7%A0;Open+Source+Contributor+%E2%9C%A8)
-
-[![GitHub](https://img.shields.io/github/followers/vaibhav-0310?label=Follow&style=flat-square&logo=github)](https://github.com/vaibhav-0310)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaibhav-bhargav-208470252/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://vaibhav-taupe.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail)](mailto:vaibhavbhargav03@gmail.com)
-
-![Views](https://komarev.com/ghpvc/?username=vaibhav-0310&style=flat-square&color=brightgreen)
-
-</div>
+<p align="center">
+  <a href="https://github.com/vaibhav-0310"><img src="https://img.shields.io/github/followers/vaibhav-0310?label=GitHub&style=social"></a>
+  <a href="https://www.linkedin.com/in/vaibhav-bhargav-208470252/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:vaibhavbhargav03@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Me-red?logo=gmail"></a>
+  <a href="https://vaibhav-taupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0abde3?logo=vercel"></a>
+</p>
 
 ---
 
-## 🧠 About Me
-
-```js
-const vaibhav = {
-  education: "B.Tech CSE - Health Informatics @ VIT Bhopal",
-  year: "2022 - 2026",
-  roles: ["MERN Stack Developer", "AI Researcher", "DevOps Learner"],
-  passion: "Building smart healthcare solutions",
-  funFact: "☕ ➜ 💻, ideas ➜ reality!"
-};
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0310&theme=react-dark" alt="Contribution Graph" />
+</p>
 
 ---
 
-## ⚒️ Tech Stack
+## 🚀 About Me
 
-### Languages & Tools
-
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-### Backend & DB
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-
-### DevOps & Others
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+🎓 **B.Tech CSE - Health Informatics**, VIT Bhopal (2022-2026)  
+👨‍💼 MERN Stack Developer | DevOps Enthusiast | AI in Healthcare Researcher  
+🌟 Passionate about building scalable web applications & smart healthcare tools.
 
 ---
 
-## 📄 Certifications
+## 📈 Technologies & Tools
 
-- ✅ MongoDB Node.js Developer Path (MongoDB University)
-- ✅ Java Foundations (Oracle)
-- ✅ MERN Full Stack (SmartBridge)
-- ✅ Web Dev Basics (Johns Hopkins)
-- ✅ SQL Advanced (HackerRank)
-
----
-
-## 🧪 Research
-
-**🧠 "Human Drawing-Driven Evaluation for Parkinson's Detection"**  
-Published in IEEE Conference | Focused on AI + healthcare diagnostics  
-
-![IEEE](https://img.shields.io/badge/IEEE-Conference-blue?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Healthcare-critical?style=flat-square)
+- ✨ Languages: JavaScript, Java, Python, HTML, CSS, SQL
+- 🌐 Frontend: ReactJS, Tailwind CSS, Material UI, Bootstrap
+- 🚀 Backend: Node.js, Express.js, Context-API, Appwrite, Socket.io
+- 📂 Databases: MongoDB, PostgreSQL, MySQL
+- ⚖️ DevOps: Docker
+- 📃 Tools: Git, GitHub, Postman, RESTful APIs
 
 ---
 
-## 🏅 Highlights
+## 📖 Certifications
 
-```text
-🥈 HackFinance @ IIITD (Finalist)
-🥉 ZS Campus Beats (Top 10 out of 2K+)
-🌟 MERN Hackathon @ VIT Bhopal (Top 5)
-🚀 Active in Adobe Gensolve, CodeVita, DSA Week
-```
+- MongoDB Node.js Developer Path (MongoDB)
+- Oracle Java Foundations Certified Junior Associate
+- Full Stack Developer MERN (SmartBridge)
+- HTML, CSS, and JavaScript (John Hopkins University)
+- SQL Advanced (HackerRank)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhav-0310&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vaibhav-0310&theme=tokyonight&hide_border=true" />
-  <br /><br />
-  <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-0310&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
-## 🚀 Currently...
+## 🎓 Research Publication
 
-- 🔭 Working on: AI-powered MERN apps
-- 🌱 Learning: Docker, DevOps, Cloud
-- 👯 Collaborating on: Healthcare open source
-- 💬 Ask me: MERN, AI, research projects
+- 🔹 **"Human Drawing-Driven Automated Evaluation for Parkinson's Disease Detection"**  
+  Published in IEEE Conference | Focused on AI-powered healthcare diagnostics.
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 Achievements
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhav-bhargav-208470252/)
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/vaibhav-0310)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://vaibhav-taupe.vercel.app/)
-
-</div>
+- 📅 Finalist @ HackFinance IIITD
+- 🎖️ Top 10 - ZS Campus Beats (2K+ entries)
+- 🌟 Top 5 - MERN Hackathon @ VIT Bhopal
+- 🚀 Participant - Adobe Gensolve, TCS CodeVita, DSA Week
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
+## 📢 Let's Connect
+
+- 📧 **Email:** vaibhavbhargav03@gmail.com
+- 👤 **LinkedIn:** [vaibhav-bhargav-208470252](https://www.linkedin.com/in/vaibhav-bhargav-208470252/)
+- 📱 **Portfolio:** [vaibhav-taupe.vercel.app](https://vaibhav-taupe.vercel.app/)
+- 💻 **GitHub:** [vaibhav-0310](https://github.com/vaibhav-0310)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-0310&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-0310&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
