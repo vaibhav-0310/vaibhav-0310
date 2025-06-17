@@ -69,7 +69,6 @@ I'm actively involved in **AI Health Informatics research**. My work includes:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-0310&show_icons=true&theme=radical&hide_border=true" alt="Vaibhav's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-0310&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
