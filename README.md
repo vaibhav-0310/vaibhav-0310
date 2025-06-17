@@ -46,26 +46,6 @@
 - HTML, CSS, and JavaScript (John Hopkins University)
 - SQL Advanced (HackerRank)
 
----
-
-## 🔗 Projects
-
-### 🌐 [KIARA - E-Commerce Website](https://github.com/vaibhav-0310/Kaira-e-commerce)
-
-- ✅ Secure login with Passport.js for 5K+ users
-- 🛋️ Responsive storefront with custom checkout
-- 🌟 Tech: Node.js, Express.js, EJS, MongoDB
-
-### 🧠 [AI DIGEST - Model Discovery Dashboard](https://github.com/vaibhav-0310/ai-digest)
-
-- 🔄 Real-time AI tool aggregator with newsletter
-- 📊 Boosted engagement by 50% using HuggingFace & ArXiv APIs
-- 🎨 Stack: React, Tailwind, Node, MongoDB
-
-### 🧠 [Alzheimer's Disease Detection](https://github.com/vaibhav-0310/Alzheimer-s-disease-prediction)
-
-- 🚀 Trained CNN on MRI scans – 90% precision
-- 🌐 Python, TensorFlow, Keras, OpenCV, NumPy
 
 ---
 
