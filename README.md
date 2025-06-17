@@ -13,6 +13,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0310&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 🎓 **B.Tech CSE - Health Informatics**, VIT Bhopal (2022-2026)  
@@ -93,6 +99,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-0310&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0310&theme=react-dark" alt="Contribution Graph" />
-</p>
+
