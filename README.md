@@ -8,7 +8,7 @@
 
 ## 🚀 **About Me**
 
-**Full-Stack Developer** • **AI Health Informatics Researcher** • **B.Tech CSE @ VIT Bhopal**
+**Full-Stack Developer** • **APP DEVELOPER** • **AI Health Informatics Researcher** • **B.Tech CSE @ VIT Bhopal**
 
 🔥 Passionate about creating **scalable web & mobile applications** that make a difference  
 🧠 **Published IEEE researcher** exploring AI's potential in healthcare innovation  
