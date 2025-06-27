@@ -8,11 +8,11 @@
 
 ## 🚀 **About Me**
 
-**Full-Stack Developer** • **APP DEVELOPER** • **AI Health Informatics Researcher** • **B.Tech CSE @ VIT Bhopal**
+**Full-Stack Developer** • **App Developer** • **AI Health Informatics Researcher** • **B.Tech CSE @ VIT Bhopal**
 
 🔥 Passionate about creating **scalable web & mobile applications** that make a difference  
 🧠 **Published IEEE researcher** exploring AI's potential in healthcare innovation  
-🏆 **Hackathon finalist** with a track record of building award-winning solutions  
+🏆 **ZS Campus Beats finalist** with a track record of building award-winning solutions  
 ⚡ **Oracle Java certified** developer with expertise across the stack
 
 ---
@@ -52,27 +52,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbhargav&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavbhargav&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
----
-
-## 🏆 **Achievements & Highlights**
-
-```javascript
-const vaibhav = {
-    education: "B.Tech Computer Science @ VIT Bhopal",
-    research: "Published IEEE Researcher in AI Health Informatics",
-    certifications: ["Oracle Java Certified Developer"],
-    achievements: [
-        "🥇 Hackathon Finalist",
-        "📚 IEEE Published Research Paper",
-        "🚀 Multiple Full-Stack Projects Deployed"
-    ],
-    currentFocus: "Building scalable MERN & React Native applications",
-    funFact: "I turn coffee into code and ideas into reality! ☕→💻"
-};
 ```
 
 ---
