@@ -1,90 +1,38 @@
-<h1 align="center">Hi there, I'm Vaibhav Bhargav 👋</h1>
+# Hi there, I'm Vaibhav Bhargav 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B2335&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;AI+Health+Informatics+Researcher;Open+Source+Contributor;App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=400&lines=MERN+Stack+Developer;AI+Health+Informatics+Researcher;Open+Source+Contributor" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/vaibhav-0310" target="_blank"><img src="https://img.shields.io/github/followers/vaibhav-0310?label=GitHub&style=social"></a>
-  <a href="https://www.linkedin.com/in/vaibhav-bhargav-208470252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="mailto:vaibhavbhargav03@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Me-red?logo=gmail"></a>
-  <a href="https://vaibhav-taupe.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0abde3?logo=vercel"></a>
-</p>
-
----
 
 ## 🚀 About Me
+Currently pursuing **B.Tech in CSE (Health Informatics)** at VIT Bhopal | Building scalable web apps with **MERN Stack** | Passionate about **AI in Healthcare** | DevOps Enthusiast
 
-<img align="right" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-0310&theme=react-dark" style="width: 45%;" />
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-I'm Vaibhav Bhargav, currently pursuing my **B.Tech in Computer Science Engineering with a specialization in Health Informatics** from VIT Bhopal (2022-2026). My passion lies at the intersection of technology and healthcare, driving me to explore and innovate.
-
-As a **MERN Stack Developer**, I love building **scalable web applications**. My journey also includes diving deep into **AI in Healthcare Research** and contributing to **open-source projects**. I'm a **DevOps Enthusiast**, always looking for ways to streamline development workflows.
-
----
-
-## 🛠️ My Tech Stack
-
-Here are some of the technologies and tools I work with:
-
-* **Languages:** JavaScript, Java, Python, HTML, CSS, SQL
-* **Frontend:** ReactJS, Tailwind CSS, Material UI, Bootstrap
-* **Backend:** Node.js, Express.js, Context-API, Appwrite, Socket.io
-* **Databases:** MongoDB, PostgreSQL, MySQL
-* **DevOps:** Docker
-* **Tools:** Git, GitHub, Postman, RESTful APIs
-
----
-
-## 📜 Certifications & Achievements
-
-I believe in continuous learning and have earned several certifications to strengthen my skills:
-
-* **MongoDB Node.js Developer Path** (MongoDB)
-* **Oracle Java Foundations Certified Junior Associate**
-* **Full Stack Developer MERN** (SmartBridge)
-* **HTML, CSS, and JavaScript** (John Hopkins University)
-
-### 🏆 Highlights & Recognition
-
-* 📅 **Finalist** @ HackFinance IIITD
-* 🎖️ **Top 10** - ZS Campus Beats (2K+ entries)
-* 🌟 **Top 5** - MERN Hackathon @ VIT Bhopal
-* 🚀 **Participant** - Adobe Gensolve, TCS CodeVita, DSA Week
-
----
-
-## 🔬 Research & Publications
-
-I'm actively involved in **AI Health Informatics research**. My work includes:
-
-* **"Human Drawing-Driven Automated Evaluation for Parkinson's Disease Detection"**
-    * Published in **IEEE Conference**
-    * <a href="https://ieeexplore.ieee.org/document/10941183/" target="_blank">View Publication</a>
-
----
+## 🏆 Highlights
+🎯 **Finalist** @ HackFinance IIITD | **Top 10** ZS Campus Beats | **Top 5** MERN Hackathon  
+📄 **IEEE Published Researcher** - AI for Parkinson's Disease Detection  
+🏅 **Oracle Java Certified** | **MongoDB Node.js Developer**
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-0310&show_icons=true&theme=radical&hide_border=true" alt="Vaibhav's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-0310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-0310&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
-
-* 📧 **Email:** vaibhavbhargav03@gmail.com
-* 👤 **LinkedIn:** [vaibhav-bhargav-208470252](https://www.linkedin.com/in/vaibhav-bhargav-208470252/)
-* 📱 **Portfolio:** [vaibhav-taupe.vercel.app](https://vaibhav-taupe.vercel.app/)
-* 💻 **GitHub:** [vaibhav-0310](https://github.com/vaibhav-0310)
-
----
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-bhargav-208470252/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vaibhavbhargav03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://vaibhav-taupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20build%20something%20amazing%20together!&fontSize=18&fontColor=000000&animation=slideIn" alt="Let's connect!" />
-  <br>
-  <p style="font-size: 1.2em; color: #000000;">Feel free to reach out to me via <a href="mailto:vaibhavbhargav03@gmail.com" style="color: #000000; text-decoration: none;">Email</a> or connect on <a href="https://www.linkedin.com/in/vaibhav-bhargav-208470252/" style="color: #000000; text-decoration: none;">LinkedIn</a>!</p>
+  <img src="https://komarev.com/ghpvc/?username=vaibhav-0310&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
