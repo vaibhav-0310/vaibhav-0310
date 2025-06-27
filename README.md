@@ -43,15 +43,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhavbhargav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-
 
 ---
 
