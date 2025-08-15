@@ -6,14 +6,11 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bhargav</h1>
 <h3 align="center">💻 Insightful Computer Science Student | Java & Full-Stack Developer | VITB'26</h3>
 
----
 
 ### 🚀 About Me
 I'm a passionate **Computer Science** student with a strong inclination towards learning and contributing positively through **technology**.  
 💡 My main focus is on **Front-End Development**, where I enjoy building **user-friendly** and **innovative** interfaces.  
 📚 Currently working on personal projects & leveling up my **UI/UX & Full-Stack** skills.
-
----
 
 ### 🤝 Connect with Me
 <p align="center">
@@ -28,8 +25,6 @@ I'm a passionate **Computer Science** student with a strong inclination towards 
   </a>
 </p>
 
----
-
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -40,15 +35,4 @@ I'm a passionate **Computer Science** student with a strong inclination towards 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
----
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-0310&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-0310&theme=tokyonight" alt="GitHub streak" height="160"/>
-</p>
-
----
-
-### ✨ Fun Fact
-> "The best way to predict the future is to create it." – Abraham Lincoln
