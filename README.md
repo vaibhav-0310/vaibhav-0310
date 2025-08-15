@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1068e776-3efe-4b76-8ba5-4cf7c370c37e" alt="Vaibhav Bhargav Banner" width="100%" />
+  <img width="1584" height="396" alt="Black and Beige Modern Handwriting Professional Business LinkedIn Banner" src="https://github.com/user-attachments/assets/35b2240f-613d-456a-bcf4-cc050f0d493e" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Bhargav</h1>
