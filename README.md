@@ -1,6 +1,7 @@
 
 
-![Black Minimal Business Personal Profile Linkedin Banner](https://user-images.githubusercontent.com/131360819/233767326-fa847971-057e-446e-929e-86411ee5d5ed.png)
+![Black Minimal Business Personal Profile Linkedin Banner]<img width="1584" height="396" alt="Black and Beige Modern Handwriting Professional Business LinkedIn Banner" src="https://github.com/user-attachments/assets/1068e776-3efe-4b76-8ba5-4cf7c370c37e" />
+
 
 <h1 align="center">Vaibhav Bhargav</h1>
 <h3 align="center">Insightful Computer Science Student with Java and Full-Stack Development skills | VITB'26`</h3>
