@@ -1,31 +1,30 @@
-# 👋 Hi, I'm Vaibhav Bhargav!
 
----
 
-### **🚀 Full-Stack Developer | AI Researcher | MERN & React Native Specialist**
+![Black Minimal Business Personal Profile Linkedin Banner](https://user-images.githubusercontent.com/131360819/233767326-fa847971-057e-446e-929e-86411ee5d5ed.png)
 
----
+<h1 align="center">Vaibhav Bhargav</h1>
+<h3 align="center">Insightful Computer Science Student with Java and Full-Stack Development skills | VITB'26`</h3>
+Hello there! I am a Computer Science student with a strong inclination towards acquiring knowledge and contributing positively to the society through the domain of technology. My primary interest lies in Front-End development, where I enjoy designing user-friendly interfaces and creating innovative solutions. I am currently working on personal projects and improving on everything Front-End related.
 
-Passionate about building **scalable web & mobile applications** and exploring **AI's potential in healthcare**. Published IEEE researcher and Oracle Java certified.
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vaibhav-bhargav-208470252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likitha khatri" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vaibhav_0310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gemoacme" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vbhargav0310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://github.com/likithakhatri" height="30" width="40" /></a>
+</p>
 
-#### **Tech I Love:**
+<h2 align="left">🧰 Languages and Tools</h2>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-**Frontend:** React, React Native, JavaScript, HTML5, CSS3
-**Backend:** Node.js, Express.js, Python, Java
-**Database & Cloud:** MongoDB, MySQL, Docker, AWS
 
----
 
-#### **Connect with Me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-bhargav-208470252/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://vaibhav-taupe.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavbhargav03@gmail.com)
 
----
 
-"Code is poetry written in logic" 🚀
 
----
+
+
+
