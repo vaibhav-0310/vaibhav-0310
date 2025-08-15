@@ -1,6 +1,6 @@
 
 
-![Black Minimal Business Personal Profile Linkedin Banner]<img width="1584" height="396" alt="Black and Beige Modern Handwriting Professional Business LinkedIn Banner" src="https://github.com/user-attachments/assets/1068e776-3efe-4b76-8ba5-4cf7c370c37e" />
+<img width="1584" height="396" alt="Black and Beige Modern Handwriting Professional Business LinkedIn Banner" src="https://github.com/user-attachments/assets/1068e776-3efe-4b76-8ba5-4cf7c370c37e" />
 
 
 <h1 align="center">Vaibhav Bhargav</h1>
