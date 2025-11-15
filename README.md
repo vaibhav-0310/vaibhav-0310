@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img width="1584" height="396" alt="Black and Beige Modern Handwriting Professional Business LinkedIn Banner" src="https://github.com/user-attachments/assets/472f4c96-9cf6-451d-b3f6-ffbddb0d6103" />
+  <img width="1584" height="396" alt="Black and Beige Modern Handwriting Professional Business LinkedIn Banner" src="https://github.com/user-attachments/assets/78cfe262-a43d-4fe9-85f4-c1d74b06eae0" />
+
 
 
 </p>
