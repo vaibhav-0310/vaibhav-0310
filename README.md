@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 I'm a passionate **Computer Science** student with a strong inclination towards learning and contributing positively through **technology**.  
-💡 My main focus is on **Front-End Development**, where I enjoy building **user-friendly** and **innovative** interfaces.  
+💡 My main focus is on **Backend-End Development**, where I enjoy building **user-friendly** and **innovative** interfaces.  
 📚 Currently working on personal projects & leveling up my **UI/UX & Full-Stack** skills.
 
 ### 🤝 Connect with Me
