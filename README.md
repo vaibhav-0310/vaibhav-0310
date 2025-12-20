@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me  
-I'm an aspiring **Full-Stack Developer** with strong skills in **Java Backend**, **MERN Stack**, and modern web technologies.  
+I'm an aspiring **Full-Stack Developer** with strong skills in **Backend**, **MERN Stack**, and modern web technologies.  
 I enjoy transforming ideas into **scalable**, **intuitive**, and **high-performance** applications.  
 Currently leveling up my expertise in **Cloud (AWS)** and building impactful real-world projects.
 
