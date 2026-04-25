@@ -31,7 +31,6 @@ Currently leveling up my expertise in **Cloud (AWS)** and building impactful rea
 ---
 
 ### 🛠️ Languages & Tools  
-### 🛠️ Languages & Tools  
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
 
   <!-- HTML -->
