@@ -8,30 +8,24 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀 About Me
 I'm an aspiring **Full-Stack Developer** with strong skills in **Backend**, **MERN Stack**, and modern web technologies.  
 I enjoy transforming ideas into **scalable**, **intuitive**, and **high-performance** applications.  
 Currently leveling up my expertise in **Cloud (AWS)** and building impactful real-world projects.
 
 ---
 
-### 🤝 Connect with Me  
+### 🤝 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-bhargav-208470252/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/vaibhav_0310/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/vbhargav0310/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-bhargav-208470252/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vaibhav_0310/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/vbhargav0310/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
-### 🛠️ Languages & Tools  
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
