@@ -28,9 +28,8 @@ Currently leveling up my expertise in **Cloud (AWS)** and building impactful rea
 ### 🛠️ Languages & Tools
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
-
+  <a><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a>
+  <a><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
