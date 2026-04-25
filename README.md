@@ -31,7 +31,8 @@ Currently leveling up my expertise in **Cloud (AWS)** and building impactful rea
 ---
 
 ### 🛠️ Languages & Tools  
-<p align="center">
+### 🛠️ Languages & Tools  
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
 
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
